@@ -12,7 +12,7 @@ Hello and welcome to my College notes website. It is not complete and [callouts]
 ## Unit 11 - Cybersecurity
 - [11.1 Intro](Notes/Unit%2011%20-%20Cybersecurity/11.1%20Intro.md)
 - [11.2 Cyber Threats](Notes/Unit%2011%20-%20Cybersecurity/11.2%20Cyber%20Threats.md)
-- [11.3 Malicious software](Notes/Unit%2011%20-%20Cybersecurity/11.3%20Malicious%20software.md)
+- [11.3 Malicious Software](Notes/Unit%2011%20-%20Cybersecurity/11.3%20Malicious%20Software.md)
 ## Unit 14 - IT Service Delivery
 - [14.1 Intro](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.1%20Intro.md)
 - [14.2 Purpose and Function of Organizations](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.2%20Purpose%20and%20Function%20of%20Organizations.md)
