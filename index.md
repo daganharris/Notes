@@ -20,6 +20,7 @@ Hello and welcome to my College notes website. It is not complete and [callouts]
 - [17.1 Intro](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.1%20Intro.md)
 - [17.2 Different Graphics and Terms](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.2%20Different%20Graphics%20and%20Terms.md)
 - [17.3 Legal Considerations](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.3%20Legal%20Considerations.md)
+- [17.4 Rendering](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.4%20Rendering.md)
 # Year 1
 
 ## Unit 1 - IT Systems
