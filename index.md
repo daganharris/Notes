@@ -6,22 +6,29 @@ Hello and welcome to my College notes website. It is not complete and [callouts]
 ## Unit 8 - Games Development
 - [8.1 Intro](Notes/Unit%208%20-%20Games%20Development/8.1%20Intro)
 - [8.2 Social Trends In Computer Gaming](Notes/Unit%208%20-%20Games%20Development/8.2%20Social%20Trends%20In%20Computer%20Gaming)
+- [8.3 Platforms](Notes/Unit%208%20-%20Games%20Development/8.4%20Platforms)
 ## Unit 9 - Project Management
 - [9.1 Intro](Notes/Unit%209%20-%20Project%20Management/9.1%20Intro)
 - [9.2 Project Management Techniques](Notes/Unit%209%20-%20Project%20Management/9.2%20Project%20Management%20Techniques)
+- [9.3 Project Management Methodologies](Notes/Unit%209%20-%20Project%20Management/9.3%20Project%20Management%20Methodologies)
+- [9.3.1 Waterfall](Notes/Unit%209%20-%20Project%20Management/9.3.1%20Waterfall)
 ## Unit 11 - Cybersecurity
 - [11.1 Intro](Notes/Unit%2011%20-%20Cybersecurity/11.1%20Intro)
 - [11.2 Cyber Threats](Notes/Unit%2011%20-%20Cybersecurity/11.2%20Cyber%20Threats)
 - [11.3 Malicious Software](Notes/Unit%2011%20-%20Cybersecurity/11.3%20Malicious%20Software)
+- [11.4 System Vulnerabilities](Notes/Unit%2011%20-%20Cybersecurity/11.4%20System%20Vulnerabilities)
 ## Unit 14 - IT Service Delivery
 - [14.1 Intro](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.1%20Intro)
 - [14.2 Purpose and Function of Organizations](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.2%20Purpose%20and%20Function%20of%20Organizations)
 - [14.3 Project Management Methodologies](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.3%20Project%20Management%20Methodologies)
+- [14.4 Diagrams](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.4%20Diagrams)
+- [14.5 Networks](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.5%20Networks)
+- [14.6 Legislation](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.6%20Legislation)
 ## Unit 17 - Graphics & Animation
 - [17.1 Intro](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.1%20Intro)
 - [17.2 Different Graphics and Terms](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.2%20Different%20Graphics%20and%20Terms)
 - [17.3 Legal Considerations](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.3%20Legal%20Considerations)
-- [17.4 Rendering](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.4%20Rendering)
+- [17.4 3D Graphics](Notes/Unit%2017%20-%20Graphics%20&%20Animation/17.4%203D%20Graphics)
 # Year 1
 
 ## Unit 1 - IT Systems
