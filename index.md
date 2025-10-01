@@ -12,6 +12,7 @@ Hello and welcome to my College notes website. It is not complete and [callouts]
 - [9.2 Project Management Techniques](Notes/Unit%209%20-%20Project%20Management/9.2%20Project%20Management%20Techniques)
 - [9.3 Project Management Methodologies](Notes/Unit%209%20-%20Project%20Management/9.3%20Project%20Management%20Methodologies)
 - [9.3.1 Waterfall](Notes/Unit%209%20-%20Project%20Management/9.3.1%20Waterfall)
+- [9.3.2 Rapid Application Development (RAD)](Notes/Unit%209%20-%20Project%20Management/9.3.2%20Rapid%20Application%20Development%20%28RAD%29)
 ## Unit 11 - Cybersecurity
 - [11.1 Intro](Notes/Unit%2011%20-%20Cybersecurity/11.1%20Intro)
 - [11.2 Cyber Threats](Notes/Unit%2011%20-%20Cybersecurity/11.2%20Cyber%20Threats)
