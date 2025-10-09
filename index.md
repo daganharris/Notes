@@ -19,8 +19,9 @@ Hello and welcome to my College notes website. It is not complete and [callouts]
 - [11.2 Cyber Threats](Notes/Unit%2011%20-%20Cybersecurity/11.2%20Cyber%20Threats)
 - [11.3 Malicious Software](Notes/Unit%2011%20-%20Cybersecurity/11.3%20Malicious%20Software)
 - [11.4 System Vulnerabilities](Notes/Unit%2011%20-%20Cybersecurity/11.4%20System%20Vulnerabilities)
-- [11.5 Attack Vectors (not following style guide yet)](Notes/Unit%2011%20-%20Cybersecurity/11.5%20Attack%20Vectors)
-- [11.5.1 Presentation](Notes/Unit%2011%20-%20Cybersecurity/11.5.1%20Presentation)
+- [11.5 Attack Vectors](Notes/Unit%2011%20-%20Cybersecurity/11.5%20Attack%20Vectors)
+- [11.5.1 Presentation](Notes/Unit%2011%20-%20Cybersecurity/11.5.1%20Presentation.md)
+- [11.6 Legal Responsibilities](Notes/Unit%2011%20-%20Cybersecurity/11.6%20Legal%20Responsibilities.md)
 ## Unit 14 - IT Service Delivery
 - [14.1 Intro](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.1%20Intro)
 - [14.2 Purpose and Function of Organizations](Notes/Unit%2014%20-%20IT%20Service%20Delivery/14.2%20Purpose%20and%20Function%20of%20Organizations)
